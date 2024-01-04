@@ -3,3 +3,49 @@
     padding: 0;
     box-sizing: border-box;
 }
+.inputs{
+    height: 400px;
+    width: 400px;
+    border: 1.5px solid black;
+    margin-top: 16px;
+    text-align: center;
+    margin-left: 250px;
+    border-radius: 14px;
+    margin-bottom: 45px;
+}
+input{
+    height: 35px;
+    width: 290px;
+    background-color: rgba(216, 235, 235, 0.684);
+    margin-top: 10px;
+    border: 1.5px solid black;
+    border-radius: 8px;
+    font-size: 1.1rem;
+}
+.inputs h1 {
+    margin: 20px 0px;
+}
+.baton{
+    /* height: 34px; */
+    width: 300px;
+    background-color: rgba(41, 41, 238, 0.781);
+    font-size: 1.5rem;
+    margin-top: 10px;
+    border: 1.4px solid black;
+    border-radius: 10px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+hr{
+    margin: 15px 30px;
+}
+.hasan{
+    border: 1.4px solid rgb(31, 30, 30);
+    /* height: 35px; */
+    width: 237px;
+    margin-left: 80px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgba(0, 128, 0, 0.853);
+    font-weight: 400;
+}
